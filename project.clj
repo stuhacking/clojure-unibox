@@ -1,4 +1,4 @@
-(defproject org.clojars.stuhacking/unibox "0.1.0-SNAPSHOT"
+(defproject clojure-unibox/clojure-unibox "0.1.0"
   :description "Unibox - Map Line Descriptions to Box Drawing Characters."
   :url "http://github.com/stuhacking/clojure-unibox"
   :license {:name "Eclipse Public License"
