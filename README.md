@@ -5,7 +5,7 @@ Small Clojure library for mapping line descriptions to unicode box drawing chara
 
 To use this library, add the following dependency to your project.clj:
 
-    [unibox "0.1.0-SNAPSHOT"]
+    [org.clojars.stuhacking/unibox "0.1.0-SNAPSHOT"]
 
 Unibox exposes a single function which will return a unicode char matching the line description given as parameters.  If a matching char cannot be found, nil will be returned.
 
